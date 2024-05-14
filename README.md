@@ -7,7 +7,7 @@
   <dd>
 use standard `&lt;ul&gt;` and `&lt;li&gt;` tags
   </dd>
-<dt> Repitition </dt>
+<dt> Repetition </dt>
   <dd>
 within a `&lt;li&gt;`, add a `&lt;p data-from=i&gt;` tag with the `data-from` attribute.
   </dd>
